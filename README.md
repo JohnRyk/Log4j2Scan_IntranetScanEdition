@@ -36,9 +36,9 @@ Proxy -> select url -> Do passive scan
 
 # Screenshot：
 
-![](screenshots/scan.png)
+![scan](screenshots/scan.png)
 
-![](screenshots/output.png)
+![output](screenshots/output.png)
 
 
 
