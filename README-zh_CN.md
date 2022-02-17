@@ -39,9 +39,9 @@ Proxy -> 选择要扫描的url -> 右键Do passive scan
 
 # 效果截图：
 
-![](screenshots/scan.png)
+![scan](screenshots/scan.PNG)
 
-![](screenshots/output.png)
+![output](screenshots/output.PNG)
 
 
 
